@@ -12,7 +12,7 @@
 ## Stats
 
 ![github stats](https://raw.githubusercontent.com/jf9tgl/jf9tgl/main/profile-summary-card-output/default/3-stats.svg)
-![gitnoare](https://github-readme-stats-rierun-project.vercel.app/api/top-langs/?username=rierun&layout=compact)
+![gitnoare](https://github-readme-stats-rierun-project.vercel.app/api/top-langs/?username=jf9tgl&layout=compact)
 ![profile details](https://raw.githubusercontent.com/jf9tgl/jf9tgl/main/profile-summary-card-output/default/0-profile-details.svg)
 
 <hr/>
